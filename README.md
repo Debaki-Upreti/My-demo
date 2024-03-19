@@ -1,2 +1,3 @@
 # My-demo
-This is my first Got repository.
+This is my first Git repository.
+Author-Debaki Upreti
